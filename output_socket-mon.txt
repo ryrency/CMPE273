@@ -1,3 +1,4 @@
+bash-3.2$ sudo python socket-mon.py
 "pid","laddr","raddr","status"
 "98924","10.255.209.38@56469","54.221.62.191@443","CLOSE_WAIT"
 "98924","10.255.209.38@56456","216.58.194.174@443","ESTABLISHED"
